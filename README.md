@@ -1,19 +1,11 @@
-# ToDoList
+# ToDo List
 
-This is my first project. It is a simple To-Do List web app made with HTML, CSS, and JavaScript.
+This is my first project. It's a simple To-Do List web app built using HTML, CSS, and JavaScript.
+You can add, complete, and delete tasks easily!
 
-Features
+How to Run
 
-Add tasks
-
-Mark tasks as completed
-
-Delete tasks
-
-
-How to Use
-
-1. Download or clone the project.
+1. Download or clone this repository.
 
 
 2. Open the index.html file in your browser.
@@ -22,6 +14,13 @@ How to Use
 3. Start adding your tasks!
 
 
+
+Features
+
+✔️ Add new tasks
+✔️ Mark tasks as completed
+✔️ Delete tasks
+✔️ Simple and clean design
 
 Technologies Used
 
